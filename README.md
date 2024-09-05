@@ -1,0 +1,2 @@
+# Design-and-Development-of-Crop-Recommendation-System-and-Worm-Detection-Using-Machine-Learning
+The Crop Recommendation System and Worm Detection project was developed to assist farmers in making data-driven decisions about crop selection and pest management. The primary goal was to improve agricultural productivity by leveraging machine learning to recommend optimal crops based on environmental factors and to detect worm infestations early.
